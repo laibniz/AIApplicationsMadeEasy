@@ -1,6 +1,6 @@
 ## GenAI Appendix Scripts
 
-This repository mirrors the Python appendix material from *AI Applications Made Easy – RAG, agents, and other GenAI solutions* by Andrea De Mauro (MEAP, ISBN 9781633435872, publication ETA Spring 2026). Each script recreates the Langflow build featured in the matching chapter so you can inspect the raw LangChain wiring, extend it, or plug it into your own stack. Grab the full book at https://www.manning.com/books/ai-applications-made-easy.
+This repository mirrors the Python appendix material from *AI Applications Made Easy – RAG, agents, and other GenAI solutions* by Andrea De Mauro (MEAP, ISBN 9781633435872, publication ETA Spring 2026). Each script recreates the Langflow build featured in the matching chapter so you can inspect the raw LangChain wiring, extend it, or plug it into your own stack. Grab the full book at [https://www.manning.com/books/ai-applications-made-easy](https://www.manning.com/books/ai-applications-made-easy?a_aid=demauro&chan=mm_github).
 
 ### Get the code
 
