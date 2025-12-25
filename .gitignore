@@ -17,7 +17,7 @@ __pycache__/
 venv/
 .envrc
 
-# Local vector DB / generated artifacts (se non vuoi caricarli)
+# Local vector DB / generated artifacts
 menu_chroma/
 menu/
 cookbook/
