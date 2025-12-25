@@ -21,6 +21,7 @@ SERP_API_KEY=...
 COMPOSIO_API_KEY=...
 ```
 
+You can use the existing `.env.example` as a base. Just rename it to `.env` and change the keys inside.
 Each script loads `.env` automatically, so there is no need to export the variables manually.
 
 ### Install dependencies
