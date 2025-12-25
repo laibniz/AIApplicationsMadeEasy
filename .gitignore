@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# OS / junk
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.envrc
+
+# Local vector DB / generated artifacts (se non vuoi caricarli)
+menu_chroma/
+menu/
+cookbook/
