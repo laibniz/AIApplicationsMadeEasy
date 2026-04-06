@@ -43,7 +43,7 @@ if __name__ == "__main__":  #L
     chat_loop()  #M
 
 
-#A LangChain’s ChatOpenAI is the Python analog to Langflow’s ChatOpenAI block.
+#A LangChain’s ChatOpenAI is the Python analog to Langflow’s ChatOpenAI component.
 #B System/Human message objects reproduce the prompt nodes from the canvas.
 #C `load_dotenv` reads the local .env so you don’t copy keys into code.
 #D Pull the OpenAI key once the environment is hydrated.
