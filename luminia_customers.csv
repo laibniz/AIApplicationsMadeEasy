@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,Age,City,Country,Gender,PreferredCategory,DaysFromSubscription
+CUST001,Jane,Smith,jane.smith@outlook.com,63,Manchester,UK,Female,Sleep,723
+CUST002,Maicol,Pirozzi,maicol.pirozzi@gmail.com,41,Milan,Italy,Male,Air,704
+CUST003,Anna,Hoffmann,anna.hoffmann@gmx.de,43,Berlin,Germany,Female,Air,640
+CUST004,Elisabetta,Bianchi,elisabetta.bianchi@outlook.com,64,Rome,Italy,Female,Air,385
+CUST005,Jacob,Wilson,jacob.wilson@aol.com,64,Chicago,USA,Male,Sleep,342
+CUST006,Edward,Wilson,edward.wilson@hotmail.co.uk,60,Bristol,UK,Male,Sleep,270
+CUST007,Julia,Schmidt,julia.schmidt@gmail.com,20,Munich,Germany,Female,Wellness,159
+CUST008,Stefan,Weber,stefan.weber@t-online.de,36,Cologne,Germany,Male,Wellness,96
+CUST009,Valentina,Fontana,valentina.fontana@outlook.com,59,Naples,Italy,Female,Air,11
+CUST010,Oliver,Thomas,oliver.thomas@gmail.com,44,London,UK,Male,Lighting,8
