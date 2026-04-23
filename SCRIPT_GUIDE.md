@@ -1,6 +1,6 @@
 # Python Appendix Guide
 
-This guide extends the “What if we coded this?” sections from *AI Applications Made Easy* so Python developers can see exactly how the Langflow canvases translate into code. Langflow is built on LangChain—the de-facto standard framework for composing LLM “chains” that combine prompt templates, memory, tools, and model calls—so every script here simply recreates the same nodes programmatically.
+This guide extends the “What if we coded this?” sections from *Grokking AI Applications* so Python developers can see exactly how the Langflow canvases translate into code. Langflow is built on LangChain—the de-facto standard framework for composing LLM “chains” that combine prompt templates, memory, tools, and model calls—so every script here simply recreates the same nodes programmatically.
 
 ## Chapter 2 – Hello World Pirate Chat (`CH2-HelloWorld.py`)
 
