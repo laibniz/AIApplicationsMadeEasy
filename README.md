@@ -1,6 +1,15 @@
 ## GenAI Appendix Scripts
 
-This repository mirrors the Python appendix material from *Grokking AI Applications* by Andrea De Mauro (MEAP, ISBN 9781633435872, publication ETA Spring 2026). Each script recreates the Langflow build featured in the matching chapter so you can inspect the raw LangChain wiring, extend it, or plug it into your own stack. Grab the full book at [https://www.manning.com/books/ai-applications-made-easy](https://www.manning.com/books/ai-applications-made-easy?a_aid=demauro&chan=mm_github).
+<table>
+  <tr>
+    <td>
+      This repository mirrors the Python appendix material from <em>Grokking AI Applications</em> by Andrea De Mauro (MEAP, ISBN 9781633435872, publication ETA Spring 2026). Each script recreates the Langflow build featured in the matching chapter so you can inspect the raw LangChain wiring, extend it, or plug it into your own stack. Grab the full book at <a href="https://www.manning.com/books/ai-applications-made-easy?a_aid=demauro&amp;chan=mm_github">manning.com/books/ai-applications-made-easy</a>.
+    </td>
+    <td valign="top">
+      <img src="GrokkingAIapplications-DeMauro-cover.jpg" alt="Grokking AI Applications cover" width="180" />
+    </td>
+  </tr>
+</table>
 
 ### Get the code
 
